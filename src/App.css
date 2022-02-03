@@ -40,6 +40,11 @@ body {
   max-width: 400px;
 }
 
+.main-content-ul > li::marker {
+  font-size: 1.4rem;
+  color: #61DAFB;
+}
+
 .main-title {
   margin: 0;
   font-size: 39px;
