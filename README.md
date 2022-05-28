@@ -2,6 +2,8 @@
 
 > A Web App built in React to tell you about some of the amazing facts of React. I hope you're into such stuff.
 
+![Home Page](./public/home.png)
+
 ## Built With
 
 - JSX, CSS
